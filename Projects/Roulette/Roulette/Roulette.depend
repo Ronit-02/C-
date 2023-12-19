@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548742249 source:c:\users\rajiv\onedrive\desktop\roulette\roulette.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<ctype.h>
+
